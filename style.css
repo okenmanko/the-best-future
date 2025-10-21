@@ -1,0 +1,151 @@
+* {
+
+    margin: auto;
+    padding: auto;
+    box-sizing: border-box;
+
+}
+
+.header {
+
+    background: rgba(88, 85, 231, 1);
+}
+
+.container {
+    max-width: 1440px;
+    margin: auto;
+}
+
+.nav_content {
+
+    height: 143px;
+    display: flex;
+    color: white;
+}
+
+.nav_list {
+    display: flex;
+    list-style: none;
+    font-family: Gilroy;
+    font-weight: 500;
+    font-size: 24px;
+    leading-trim: NONE;
+    line-height: 100%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    gap: 44px;
+    margin-left: 74px;
+}
+
+.nav_right {
+
+    width: 267.1428527832031;
+    height: 50;
+    top: 47px;
+    left: 1042px;
+    angle: 0 deg;
+    opacity: 1;
+    border-radius: 5px;
+    background: rgba(255, 255, 255, 1);
+
+}
+
+.nav_right p {
+
+    font-family: Gilroy;
+    font-weight: 500;
+    font-size: 24px;
+    leading-trim: NONE;
+    line-height: 100%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: black;
+    padding-top: 11px;
+    padding-left: 35px;
+    padding-bottom: 10px;
+    padding-right: 34.14px;
+}
+
+.hero_container {
+
+    display: flex;
+}
+
+.buttons {
+    display: flex;
+}
+
+.hero_left h2 {
+
+    font-family: Gilroy;
+    font-weight: 600;
+    font-size: 40px;
+    leading-trim: NONE;
+    line-height: 100%;
+    letter-spacing: 0%;
+
+
+
+}
+
+.hero_left h2 span {
+
+    font-family: Gilroy;
+    font-weight: 700;
+    font-size: 40px;
+    leading-trim: NONE;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: rgba(99, 71, 235, 1);
+
+}
+
+.hero_left p {
+
+    font-family: Gilroy;
+    font-weight: 400;
+    font-size: 18px;
+    leading-trim: NONE;
+    line-height: 100%;
+    letter-spacing: 0%;
+    padding-top: 40px;
+}
+
+
+
+.left_b {
+
+    width: 220;
+    height: 58;
+    top:
+        130px;
+    angle: 0 deg;
+    opacity: 1;
+    border-radius: 10px;
+
+    background: rgba(99, 71, 235, 1);
+
+}
+
+.left_b p {
+
+    font-family: Gilroy;
+    font-weight: 500;
+    font-size: 32px;
+    leading-trim: NONE;
+    line-height: 100%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: white;
+    margin-bottom: 10px;
+}
+
+.right_b {
+    width: 172;
+    height: 43;
+    top: 590px;
+    left: 424px;
+    angle: 0 deg;
+    opacity: 1;
+    border: 3px solid rgba(99, 71, 235, 1)
+}
